@@ -36,7 +36,7 @@
         "SUPPORT": {
             "description": "Your support chat Username Without @",
             "value": "NAZRIYASUPPORT"
-        }
+        },
     },
     "addons": [],
     "buildpacks": [
